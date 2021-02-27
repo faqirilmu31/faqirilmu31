@@ -1,10 +1,9 @@
-### Yo! Hi there 👋, my name is Reni Setyaningsih
+### Yo! Hi there 👋, I'm Reni Setyaningsih
 #### I'm a freshman and i'm majoring in Computer Science / Informatics at Universitas Sebelas Maret.
 ![I'm a freshman and i'm majoring in Computer Science / Informatics at Universitas Sebelas Maret.](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 I'm a freshman so unless you find an interesting repo sorry, I will learn about it ASAP^^
 
-Skills: VUE JS / REACT / JS / HTML / CSS
 
 - 🌱 I’m currently learning Data Structures and Algorithm 
 
