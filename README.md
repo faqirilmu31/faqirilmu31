@@ -1,4 +1,7 @@
 ### Hi there 👋
+I'm Reni Setyaningsih from Indonesia. I'm a Computer Science student.
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=faqirilmu31)](https://github.com/faqirilmu31/github-readme-stats)
 
 <!--
 **faqirilmu31/faqirilmu31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
