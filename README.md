@@ -1,5 +1,17 @@
-### Hi there 👋
-I'm Reni Setyaningsih from Indonesia. I'm a Computer Science student.
+### Yo! Hi there 👋, my name is Reni Setyaningsih
+#### I'm a freshman and i'm majoring in Computer Science / Informatics at Universitas Sebelas Maret.
+![I'm a freshman and i'm majoring in Computer Science / Informatics at Universitas Sebelas Maret.](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+
+I'm a freshman so unless you find an interesting repo sorry, I will learn about it ASAP^^
+
+Skills: VUE JS / REACT / JS / HTML / CSS
+
+- 🌱 I’m currently learning Data Structures and Algorithm 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/faqirilmu31)  
+
+
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=faqirilmu31)](https://github.com/faqirilmu31/github-readme-stats)
 
