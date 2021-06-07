@@ -1,5 +1,5 @@
 ### <img align='right' alt='GIF' src='https://user-images.githubusercontent.com/70735803/121033131-1c7fd300-c7d6-11eb-9395-cd0dd67dce43.gif' width='100' height='100' />
-### Yo! Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, i'm Reni
+### Yo! Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 ### 
 #### I'm a freshman and I'm majoring in Computer Science / Informatics at Universitas Sebelas Maret.
 
