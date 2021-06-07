@@ -12,7 +12,11 @@ Unless you find an interesting repo sorry, I will learn about it ASAP^^
 
 - 🌱 I’m currently learning Data Structures and Algorithm 
 
-
+ <br/>
+  <br/>
+  <a href="https://github.com/faqirilmu31/faqirilmu31">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=faqirilmu31&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&hide=issues" alt="faqirlimu31's GitHub Values" />
+  </a>
 
 
 
