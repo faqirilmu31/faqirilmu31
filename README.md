@@ -3,6 +3,7 @@
 
 [<img src='https://user-images.githubusercontent.com/70735803/121027106-e724b680-c7d0-11eb-96de-2d4d3a73c8bc.jpg' alt='github' width='1000' height='500'>](https://github.com/faqirilmu31) 
 
+<img align='right' alt='GIF' src='https://user-images.githubusercontent.com/70735803/121031406-81d2c480-c7d4-11eb-9da9-b33e8a137a0e.gif' width='100' height='100' />
 Unless you find an interesting repo sorry, I will learn about it ASAP^^
 
 
