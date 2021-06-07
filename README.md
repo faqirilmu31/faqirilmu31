@@ -1,6 +1,6 @@
 ### Yo! Hi there 👋, I'm Reni Setyaningsih
 #### I'm a freshman and I'm majoring in Computer Science / Informatics at Universitas Sebelas Maret.
-![I'm a freshman and I'm majoring in Computer Science / Informatics at Universitas Sebelas Maret.](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![I'm a freshman and I'm majoring in Computer Science / Informatics at Universitas Sebelas Maret.]![xps-g2E2NQ5SWSU-unsplash](https://user-images.githubusercontent.com/70735803/121027106-e724b680-c7d0-11eb-96de-2d4d3a73c8bc.jpg)
 
 Unless you find an interesting repo sorry, I will learn about it ASAP^^
 
@@ -8,7 +8,7 @@ Unless you find an interesting repo sorry, I will learn about it ASAP^^
 - 🌱 I’m currently learning Data Structures and Algorithm 
 
 
-[<img src='![xps-g2E2NQ5SWSU-unsplash](https://user-images.githubusercontent.com/70735803/121027106-e724b680-c7d0-11eb-96de-2d4d3a73c8bc.jpg)
+[<img src='https://user-images.githubusercontent.com/70735803/121027106-e724b680-c7d0-11eb-96de-2d4d3a73c8bc.jpg
 ' alt='github' height='40'>](https://github.com/faqirilmu31)  
 
 
