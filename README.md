@@ -9,7 +9,7 @@
 
 Unless you find an interesting repo sorry, I will learn about it ASAP^^
 
-- 🔭 I’m currently studying on Universitas Sebelas Maret 
+- 🔭 I’m currently studying at Universitas Sebelas Maret 
 - 🌱 I’m currently learning Algorithm and Data Structures
 
  <br/>
