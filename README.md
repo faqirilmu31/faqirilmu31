@@ -12,10 +12,33 @@ Unless you find an interesting repo sorry, I will learn about it ASAP^^
 - 🔭 I’m currently studying at Universitas Sebelas Maret 
 - 🌱 I’m currently learning Data Sciences
 
+<br/>
+
+### Connect with me on :
+<a href="https://www.linkedin.com/in/reni-setyaningsih/" title="LinkedIn" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a> 
+<a href="hhttps://www.hackerrank.com/faqir_ilmu?hr_r=1" title="HackerRank" target="_blank">
+    <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />
+</a>
+
+<br/>
+
+### Technology and Stats
+
+![](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
+![](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+
  <br/>
   <br/>
   <a href="https://github.com/faqirilmu31/faqirilmu31">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=faqirilmu31&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&hide=issues" alt="faqirlimu31's GitHub Values" />
+  </a>
+
+<br/> <br/>
+  <a href="https://github.com/faqirilmu31/faqirilmu31">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faqirilmu31&theme=blue-green&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="faqirlimu31's GitHub Values" />
   </a>
 
 
