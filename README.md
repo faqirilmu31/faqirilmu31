@@ -1,7 +1,7 @@
 ### <img align='right' alt='GIF' src='https://user-images.githubusercontent.com/70735803/121109412-b4f97000-c835-11eb-9859-3aa00579289b.gif' width='100' height='100' />
 ### Yo! Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 ### 
-#### I'm a senior and majoring in Computer Science / Informatics at Universitas Sebelas Maret.
+#### I'm a fresh graduate from Universitas Sebelas Maret's Computer Science / Informatics.
 
 
 [<img src='https://user-images.githubusercontent.com/70735803/121027106-e724b680-c7d0-11eb-96de-2d4d3a73c8bc.jpg' alt='github' width='1000' height='500'>](https://github.com/faqirilmu31) 
@@ -10,7 +10,7 @@
 Unless you find an interesting repo sorry, I will learn about it ASAP^^
 
 - 🔭 I’m currently studying at Universitas Sebelas Maret 
-- 🌱 I’m currently learning Data Sciences
+- 🌱 I’m currently learning Data Analytics
 
 <br/>
 
